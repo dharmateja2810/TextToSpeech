@@ -41,5 +41,5 @@ Fine-tune a TTS model to generate high-quality speech in Turkish.
 
 ---
 
-## Step 3: Install Requirements
+## Step 3: Install Requirements and run the jupyter code files
 !pip install -r requirements.txt
